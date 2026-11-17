@@ -1,4 +1,4 @@
-My name is **Darek-Lucu** and I made this github account to upload projects and stuff for fun.
+My name is **Darius-Vasile Luculescu** and I made this github account to upload projects and stuff for fun.
 
 I manly write C/C++ code. I have tried a bit of python. I also have little experience with HTML and CSS.
 
