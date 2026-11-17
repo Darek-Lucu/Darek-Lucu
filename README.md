@@ -1,19 +1,52 @@
-My name is **Darius-Vasile Luculescu** and I made this github account to upload projects and stuff for fun.
+# Darius-Vasile Luculescu
 
-I manly write C/C++ code. I have tried a bit of python. I also have little experience with HTML and CSS.
+**Applied Computer Science & Automation Student | Embedded Systems | Robotics**
 
+🎓 First-year student at **Ștefan cel Mare University of Suceava (USV)**, Romania, studying Applied Computer Science and Automation (Dual Education).
 
-<!--
-**Darek-Lucu/Darek-Lucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in software development, embedded systems, electronics and robotics. I enjoy combining programming with practical hardware projects and developing solutions to real-world problems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Applied Computer Science and Automation (Dual Education).
+- 💻 Currently developing my programming skills in C and C++.
+- 🔧 Hands-on experience with Arduino, sensors and electronic circuits.
+- 🤖 Member of the USV Robotics Club.
+- 🌍 Studied in Austria at HTL St. Pölten.
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Programming | C, C++ |
+| Embedded Systems | Arduino, Microcontrollers |
+| Electronics | Sensors, Breadboard Circuits, Data Acquisition |
+| Currently Learning | Algorithms, Programming Fundamentals |
+
+## Selected Projects
+
+### Smart Automated Bin
+An Arduino-based system using an ultrasonic sensor and a servo motor to automatically open a bin lid when an object is detected.
+
+### Digital Temperature Monitoring
+A temperature measurement and display system using the DS18B20 digital temperature sensor and Arduino.
+
+### Automated Pendulum Measurement
+Experimental devices developed to measure the velocity and oscillation period of a pendulum.
+
+## Current Activities
+
+- Participating in practical robotics projects at USV.
+- Improving programming fundamentals through university coursework.
+- Exploring the integration of hardware and software.
+
+## Languages
+
+- Romanian – Native
+- German – Advanced
+- Spanish – Advanced
+- English – Advanced
+
+---
+
+**Currently learning, building and improving.**
